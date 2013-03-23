@@ -1,4 +1,3 @@
-bin/ATFWD-daemon
 bin/battery_charging
 bin/bridgemgrd
 bin/btld
@@ -16,6 +15,7 @@ bin/rmt_storage
 bin/startupflag
 bin/ta_rmt_service
 bin/tad
+bin/thermald
 bin/updatemiscta
 bin/wait4tad
 bin/wiperiface
